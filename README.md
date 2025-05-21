@@ -23,8 +23,12 @@ This project processes and displays tennis match statistics using JavaScript. Th
 ## Project Structure
 
 ├── matchStats.js                   # Root file to run the program
+
 ├── tennisMatchProcessor.js         # Core business logic for match processing
+
 ├── tests/
+
 │   ├── tennisCalculator.test.js    # Basic unit tests for the application
+
 ├── README.md                       # Current file
 
